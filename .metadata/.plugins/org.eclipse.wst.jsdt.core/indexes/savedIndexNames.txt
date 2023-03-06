@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\MetaNet\workspace\git4_work\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1154570548.index
+4089478280.index
+1464914117.index
+3915000430.index
+3417566402.index
+4099735632.index

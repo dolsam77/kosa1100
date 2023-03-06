@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\MetaNet\workspace\git4_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2840560233.index
+\kosa_spring\src\main\java
